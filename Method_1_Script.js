@@ -1,5 +1,5 @@
 
-    let pdfDocumentName = "Document";
+    let pdfDocumentName = "Entuple_CIC_InternProgram_Assignment_01_July2020.pdf";
     let doc = "";
 
     function generatePDF_DataFile (){
