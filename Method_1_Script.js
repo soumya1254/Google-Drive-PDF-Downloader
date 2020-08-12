@@ -1,5 +1,5 @@
 
-    let pdfDocumentName = "Document";
+    let pdfDocumentName = "Ref Files";
     let doc = "";
 
     function generatePDF_DataFile (){
